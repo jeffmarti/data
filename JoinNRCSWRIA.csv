@@ -1,0 +1,56 @@
+Name,ID,State,Network,County,Elevation_ft,Latitude,Longitude,HUC,WRIA Number,WRIA Acreage,WRIA Name
+Ahtanum Ck at Union Gap,12502500,Washington,Streamflow,Yakima,940,46.53596,-120.4734,170300030105.00,37,1862427.128,Lower Yakima
+American R nr Nile,"12488500	",Washington,Streamflow,Yakima,2700,46.97762,-121.1687,170300020107.00,38,707018.7313,Naches
+Asotin Ck at Asotin,"13335050	",Washington,Streamflow,Asotin,760,46.34072,-117.05599,170601030209.00,35,1440035.873,Middle Snake
+Baker R at Concrete,"12193500	",Washington,Streamflow,Skagit,190,48.54,-121.74194,171100051007.00,4,1567120.385,Upper Skagit
+Bumping Lake Inflow,"12488000	",Washington,Streamflow,Yakima,3367,46.87261,-121.29259,170300020108.00,38,707018.7313,Naches
+Cedar R at Cedar Falls,"12116500	",Washington,Streamflow,King,902,47.41705,-121.79205,171100120104.00,8,447085.7848,Cedar - Sammamish
+Cedar R nr Cedar Falls,"12115000	",Washington,Streamflow,King,1560,47.37011,-121.6251,171100120103.00,8,447085.7848,Cedar - Sammamish
+Chamokane Ck nr Long Lake,"12433200	",Washington,Streamflow,Stevens,1420,47.86322,-117.85829,170103070204.00,54,566233.2591,Lower Spokane
+Chelan R at Chelan,"12452500	",Washington,Streamflow,Chelan,1090,47.83458,-120.01313,170200090305.00,47,668135.928,Chelan
+Cle Elum Lake Inflow,"12479000	",Washington,Streamflow,Kittitas,2102,47.24456,-121.06786,170300010106.00,39,1368957.861,Upper Yakima
+Columbia R at Grand Coulee-NWS,"12436500	",Washington,Streamflow,Douglas,900,47.96543,-118.9828,170200050203.00,42,484483.0325,Grand Coulee
+Columbia R bl Rock Island Dam-NWS,"12462600	",Washington,Streamflow,Douglas,500,47.33235,-120.08117,170200100401.00,44,730126.8099,Moses Coulee
+Colville R at Kettle Falls,"12409000	",Washington,Streamflow,Stevens,1400,48.59435,-118.06249,170200030406.00,59,652150.5734,Colville
+Cowlitz R at Castle Rock,"14243000	",Washington,Streamflow,Cowlitz,25,46.27483,-122.91456,170800050904.00,26,1594947.985,Cowlitz
+Cowlitz R bl Mayfield,"14238000	",Washington,Streamflow,Lewis,227,46.51039,-122.61622,170800050301.00,26,1594947.985,Cowlitz
+Dungeness R nr Sequim,"12048000	",Washington,Streamflow,Clallam,569,48.01426,-123.13268,171100200306.00,18,651075.4204,Elwha - Dungeness
+Elwha at Mcdonald Bridge,"12045500	",Washington,Streamflow,Clallam,200,48.05,-123.56667,171100200512.00,18,651075.4204,Elwha - Dungeness
+Entiat R nr Ardenvoir,"12452800	",Washington,Streamflow,Chelan,1561,47.81846,-120.42314,170200100207.00,46,305757.467,Entiat
+Green R bl Howard A Hanson Dam,"12105900	",Washington,Streamflow,King,990,47.28371,-121.79789,171100130204.00,9,364530.8091,Duwamish - Green
+Icicle Ck nr Leavenworth,"12458000	",Washington,Streamflow,Chelan,1450,47.54095,-120.72009,170200110406.00,45,878423.402,Wenatchee
+Kachess Reservoir Inflow,"12476000	",Washington,Streamflow,Kittitas,2188,47.26123,-121.20342,170300010306.00,39,1368957.861,Upper Yakima
+Keechelus Reservoir Inflow,"12474500	",Washington,Streamflow,Kittitas,2422,47.32122,-121.3362,170300010304.00,39,1368957.861,Upper Yakima
+Kettle R nr Laurier,"12404500	",Washington,Streamflow,Ferry,1426,48.98435,-118.2164,170200021904.00,60,656426.126,Kettle
+Klickitat R nr Glenwood,"14107000	",Washington,Streamflow,Yakima,2720,46.26484,-121.24508,170701060104.00,30,922913.6162,Klickitat
+Klickitat R nr Pitt,"14113000	",Washington,Streamflow,Klickitat,289,45.75651,-121.21007,170701060409.00,30,922913.6162,Klickitat
+Lewis R at Ariel,"14220500	",Washington,Streamflow,Cowlitz,44,45.95178,-122.56399,170800020606.00,27,837423.2507,Lewis
+Methow R nr Pateros,"12449950	",Washington,Streamflow,Okanogan,900,48.07736,-119.98507,170200080709.00,48,1359169.775,Methow
+Mill Ck at Walla Walla,"14015000	",Washington,Streamflow,Walla Walla,1120,46.06667,-118.26667,170701020701.00,32,907780.6075,Walla Walla
+Mill Ck nr Walla Walla,"14013000	",Washington,Streamflow,Walla Walla,2000,46.00792,-118.11856,170701020202.00,32,907780.6075,Walla Walla
+Naches R nr Naches,"12494000	",Washington,Streamflow,Yakima,1550,46.7454,-120.76924,170300020312.00,38,707018.7313,Naches
+Nisqually R at Legrande,"12086500	",Washington,Streamflow,Pierce,490,46.83333,-122.31667,171100150205.00,11,491308.1947,Nisqually
+Okanogan R at Malott,"12447200	",Washington,Streamflow,Okanogan,784,48.28126,-119.7045,170200062205.00,49,1342476.882,Okanogan
+Okanogan R nr Tonasket,"12445000	",Washington,Streamflow,Okanogan,861,48.63238,-119.46172,170200061808.00,49,1342476.882,Okanogan
+Palouse R at Hooper,"13351000	",Washington,Streamflow,Whitman,1041,46.75,-118.13333,170601080803.00,34,1765473.604,Palouse
+Pend Oreille R bl Box Canyon,"12396500	",Washington,Streamflow,Pend Oreille,1900,48.78103,-117.41636,170102160902.00,62,789790.043,Pend Oreille
+Rex R nr Cedar Falls,"12115500	",Washington,Streamflow,King,1700,47.35066,-121.66316,171100120102.00,8,447085.7848,Cedar - Sammamish
+Rimrock Lake Inflow,"12491500	",Washington,Streamflow,Yakima,2681,46.66262,-121.1248,170300020306.00,38,707018.7313,Naches
+SF Tolt R nr Index,"12147600	",Washington,Streamflow,King,1850,47.70677,-121.60011,171100100503.00,7,1222290.783,Snohomish
+Similkameen R nr Nighthawk,"12442500	",Washington,Streamflow,Okanogan,1138,48.9846,-119.61841,170200072009.00,49,1342476.882,Okanogan
+Skagit R at Newhalem,"12178000	",Washington,Streamflow,Whatcom,402,48.67179,-121.24623,171100050708.00,4,1567120.385,Upper Skagit
+Snake R bl Lower Granite Dam-NWS,"13343600	",Washington,Streamflow,Garfield,675,46.66766,-117.44491,170601070802.00,35,1440035.873,Middle Snake
+Spokane R at Long Lake,"12433000	",Washington,Streamflow,Lincoln,1299,47.83655,-117.84135,170103070107.00,54,566233.2591,Lower Spokane
+Stehekin R at Stehekin,"12451000	",Washington,Streamflow,Chelan,1099,48.32958,-120.69177,170200090114.00,47,668135.928,Chelan
+Sultan River blw Diversion,"12137800	",Washington,Streamflow,Snohomish,600,47.95,-121.78333,171100090503.00,7,1222290.783,Snohomish
+Taylor Ck nr Selleck,"12117000	",Washington,Streamflow,King,940,47.38649,-121.84622,171100120104.00,8,447085.7848,Cedar - Sammamish
+Teanaway R bl Forks nr Cle Elum,"12480000	",Washington,Streamflow,Kittitas,2160,47.24651,-120.86119,170300010205.00,39,1368957.861,Upper Yakima
+Thunder Ck nr Newhalem,"12175500	",Washington,Streamflow,Whatcom,1220,48.67263,-121.0729,171100050703.00,4,1567120.385,Upper Skagit
+"Toats Coulee Creek nr Loomis, WA","12442000	",Washington,Streamflow,Okanogan,1880,48.83333,-119.7,170200071804.00,49,1342476.882,Okanogan
+Walla Walla R nr Touchet,"14018500	",Washington,Streamflow,Walla Walla,405,46.02778,-118.72861,170701021103.00,32,907780.6075,Walla Walla
+Wenatchee R at Peshastin,"12459000	",Washington,Streamflow,Chelan,1028,47.58318,-120.61953,170200110706.00,45,878423.402,Wenatchee
+Wenatchee R at Plain,"12457000	",Washington,Streamflow,Chelan,1805,47.7629,-120.6662,170200110701.00,45,878423.402,Wenatchee
+White R bl Clearwater R nr Buckley,"12097850	",Washington,Streamflow,King,1100,47.14694,-121.85889,171100140403.00,10,673203.4116,Puyallup - White
+White R nr Buckley,"12098500	",Washington,Streamflow,King,840,47.15121,-121.94983,171100140403.00,10,673203.4116,Puyallup - White
+Yakima R at Cle Elum,"12479500	",Washington,Streamflow,Kittitas,1902,47.19123,-120.94703,170300010307.00,39,1368957.861,Upper Yakima
+Yakima R nr Parker,"12505001	",Washington,Streamflow,Yakima,886,46.49707,-120.44284,170300030501.00,37,1862427.128,Lower Yakima
